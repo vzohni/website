@@ -1687,6 +1687,10 @@ a {
   .view-projects-image {
     width: 100%;
   }
+  .projects-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
 }
 
 #w-node-_5e88b46d-417e-778f-7af0-7ba57a92cc85-5b53b256 {
