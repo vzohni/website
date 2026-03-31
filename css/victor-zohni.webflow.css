@@ -810,14 +810,14 @@
 
 body {
   color: var(--black);
-  font-family: Muli, sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 14px;
   line-height: 180%;
 }
 
 h1 {
   margin: 0 auto 20px;
-  font-family: Biryani, sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 7vh;
   font-weight: 400;
   line-height: 130%;
@@ -827,7 +827,7 @@ h2 {
   color: var(--midnight-blue);
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: Biryani, sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 26px;
   font-weight: 700;
   line-height: 32px;
@@ -836,7 +836,7 @@ h2 {
 h3 {
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: Biryani, sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 26px;
   font-weight: 700;
   line-height: 130%;
